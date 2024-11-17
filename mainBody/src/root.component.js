@@ -1,7 +1,7 @@
 const feed = [
-  "https://picsum.photos/id/237/700/200",
-  "https://picsum.photos/id/238/700/200",
-  "https://picsum.photos/id/200/700/200",
+  "https://zenzalepik.github.io/Zalepik_Images/icons/img_icon_gratis_logo_zalepik.svg",
+  "https://zenzalepik.github.io/Zalepik_Images/icons/img_icon_gratis_logo_zalepik.svg",
+  "https://zenzalepik.github.io/Zalepik_Images/icons/img_icon_gratis_logo_zalepik.svg",
 ];
 
 export default function Root() {
